@@ -1,0 +1,1 @@
+echo -e "Meu arq. em shel"
